@@ -11,7 +11,7 @@ function uppg9 (){
     function sort (arr) {
         for (const number of arr) {
             if (number % 2 === 0) {
-                console.log(number, "jämt"); 
+                console.log(number, "jämt");
             } else {
                 console.log(number, "udda");
             }
